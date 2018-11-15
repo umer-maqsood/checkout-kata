@@ -1,2 +1,2 @@
-# com.umer.checkout-kata
+# Checkout-Kata
 Checkout-Kata
